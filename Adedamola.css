@@ -1,0 +1,50 @@
+h3.about {
+    color:#010142;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+}
+h3 {
+    color:#010142;
+    text-decoration: underline;
+    text-align: left;
+    font-weight: bold;
+}
+p.me{
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    border: #010142;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 10px 5px;
+    background-color:rgb(16, 51, 88);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white; 
+}
+body{
+    background-image: url("76.jpg");
+    background-color: white;
+    background-size: cover;
+}
+.contact{
+    float: right;
+    margin-right: 500px;
+    font-weight: bold;
+}
+.clearing{
+    clear: left;
+}
+.skills{
+    float:right;
+    margin-right: 450px;
+    font-weight: bold;
+}
+.clearing2{
+    clear: left;
+}
+ul.list{
+    height: 50cm;
+}
